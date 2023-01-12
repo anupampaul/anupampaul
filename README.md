@@ -2,10 +2,11 @@
 <h3 align="center">I am a Programmer || Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupampaul&label=Profile%20views&color=0e75b6&style=flat" alt="anupampaul" /> </p><p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
-<p
+
+
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Algorithm**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -13,8 +14,8 @@
 
 - 📫 How to reach me **ajp4921@gmail.com**
 
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**>
-</p>
+- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupampaul" alt="anupampaul" /></a> </p>
 
